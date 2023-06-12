@@ -1,0 +1,10 @@
+https://github.com/lindell/JsBarcode/wiki/Options#format
+
+https://lindell.me/JsBarcode/#download
+
+https://github.com/lindell/JsBarcode/
+
+https://lindell.me/JsBarcode/generator/
+
+
+All of IDAutomation's barcode components and applications support Code 128 as the default barcode type.

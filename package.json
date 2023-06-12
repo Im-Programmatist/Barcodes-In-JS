@@ -1,0 +1,17 @@
+{
+  "name": "barcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JavaScriptBarCodeLib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "jsbarcode": "^3.11.5",
+    "xmldom": "^0.6.0"
+  }
+}
